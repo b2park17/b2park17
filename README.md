@@ -13,7 +13,8 @@ Cloud infrastructure (AWS, Azure), system design, and advanced backend patterns.
 RESTful APIs, MongoDB, Express.js, Python scripting, and tech in digital health.
 
 🎮 **Fun Fact:**  
-I served in the Republic of Korea Air Force and love building tech has real life impact.
+I served in the Republic of Korea Air Force and love building tech that has real-life impact.
+
 ---
 
 ## 🛠️ Skills
