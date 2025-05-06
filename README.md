@@ -13,8 +13,7 @@ Cloud infrastructure (AWS, Azure), system design, and advanced backend patterns.
 RESTful APIs, MongoDB, Express.js, Python scripting, and tech in digital health.
 
 🎮 **Fun Fact:**  
-I served in the Republic of Korea Air Force and love building tech that improves everyday life—especially for underserved communities.
-
+I served in the Republic of Korea Air Force and love building tech has real life impact!
 ---
 
 ## 🛠️ Skills
@@ -32,13 +31,9 @@ I served in the Republic of Korea Air Force and love building tech that improves
 Built a full-stack web app to help Informatics students filter courses based on prerequisites, workload, and specialization tracks.  
 **Tech Stack:** JavaScript, Node.js, Express.js, MongoDB, REST API
 
-### 📰 [Fake News Detection WebApp](https://github.com/byungwookpark/fake-news-detector)
+### 📰 [Fake News Detection WebApp](https://github.com/b2park17/Capstone)
 Developed an AI-powered platform that classifies news articles as fake or authentic using machine learning.  
 **Tech Stack:** Python, Flask, scikit-learn, SVM, XGBoost
-
-### 💸 [Personal Finance Tracker (WIP)](https://byungwookpark.netlify.app/)
-A web-based financial tool that tracks user income and expenses, compares habits across categories, and generates insightful charts.  
-**Tech Stack:** HTML/CSS, JavaScript, Tailwind (Planned: Node.js + MongoDB backend)
 
 ---
 
@@ -46,7 +41,7 @@ A web-based financial tool that tracks user income and expenses, compares habits
 
 🌐 [Portfolio](https://byungwookpark.netlify.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/byungwookpark)  
-✉️ byungwook.dev [at] gmail [dot] com
+✉️  [at] gmail [dot] com
 
 ---
 
