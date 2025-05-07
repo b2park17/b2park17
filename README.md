@@ -28,7 +28,7 @@ I served in the Republic of Korea Air Force and love building tech that has real
 
 ## 🚀 Featured Projects
 
-### 📚 [iPlanner - Course Planning Tool for UW Students](https://github.com/byungwookpark/iPlanner)
+### 📚 [iPlanner - Course Planning Tool for UW Students](https://github.com/b2park17/iPlanner)
 Built a full-stack web app to help Informatics students filter courses based on prerequisites, workload, and specialization tracks.  
 **Tech Stack:** JavaScript, Node.js, Express.js, MongoDB, REST API
 
