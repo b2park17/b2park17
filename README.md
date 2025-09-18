@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Byung Wook Park!
 
+### 🧩 LeetCode
+[![LeetCode Card](https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=light&border=0&radius=8&ext=heatmap)](https://leetcode.com/<your-leetcode-b2park2017>/)
+
+
 💻 **About Me**  
 I'm a recent Informatics graduate from the University of Washington with a strong interest in backend development, AI applications, and healthcare tech. I’ve built full-stack web applications using Node.js, MongoDB, and React, and I’m currently deepening my skills in cloud architecture and software engineering.
 
