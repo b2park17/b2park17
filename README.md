@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Byung Wook Park!
 
 ### 🧩 LeetCode
-[![LeetCode Card](https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=light&border=0&radius=8&ext=heatmap)](https://leetcode.com/<your-leetcode-b2park2017>/)
+[![LeetCode Card](https://leetcard.jacoblin.cool/<b2park2017>?theme=light&border=0&radius=8&ext=heatmap)](https://leetcode.com/<your-leetcode-b2park2017>/)
 
 
 💻 **About Me**  
