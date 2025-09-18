@@ -46,7 +46,7 @@ Developed an AI-powered platform that classifies news articles as fake or authen
 
 🌐 [Portfolio](https://byungwookpark.netlify.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/byungwookpark)  
-✉️  [at] gmail [dot] com
+✉️  [b2park2017@gmail.com](mailto:b2park2017@gmail.com)
 
 ---
 
